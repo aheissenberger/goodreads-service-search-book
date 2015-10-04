@@ -2,7 +2,8 @@
 Select a text in any OX Application (e.g. Safari, Chrome) and search for this book on goodreads to add it to your library.
 
 ##Installation
-Open the application "Search with Goodreads" and you system will ask you to install the service
+* download "Search with Goodreads" - 
+* open downloaded application "Search with Goodreads" and you system will ask you to install the service
 
 ##Instructions
 * select the title, author or ISBN of the book in the app
