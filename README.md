@@ -4,6 +4,7 @@ Select a text in any OX Application (e.g. Safari, Chrome) and search for this bo
 ##Installation
 * [download "Search with Goodreads"](https://github.com/aheissenberger/goodreads-service-search-book/blob/master/Search%20with%20Goodreads.zip?raw=true)
 * open downloaded application "Search with Goodreads" and your system will ask you to install the service
+![service installer dialog](https://github.com/aheissenberger/goodreads-service-search-book/blob/master/doc/img/service-installer-dialog.png)
 
 ##Instructions
 * select the title, author or ISBN of the book in the app
