@@ -10,6 +10,7 @@ Select a text in any OX Application (e.g. Safari, Chrome) and search for this bo
 * select the title, author or ISBN of the book in the app
 * right-click on the selection
 * choose menu item "Services -> Search with Goodreads"
+
 ![demo of how to use](https://github.com/aheissenberger/goodreads-service-search-book/blob/master/doc/img/service-demo.gif)
 
 ##Code
