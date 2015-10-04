@@ -8,7 +8,7 @@ Open the application "Search with Goodreads" and you system will ask you to inst
 * select the title, author or ISBN of the book in the app
 * right-click on the selection
 * choose menu item "Services -> Search with Goodreads"
-(https://github.com/aheissenberger/goodreads-service-search-book/blob/master/doc/img/service-demo.gif)
+![demo of how to use](https://github.com/aheissenberger/goodreads-service-search-book/blob/master/doc/img/service-demo.gif)
 
 ##Code
 This is the code - to change (e.g. open with chrome) you only need to open the file with "automator" on OSX.
