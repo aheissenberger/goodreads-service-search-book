@@ -1,5 +1,5 @@
-# goodreads-service-search-book
-Select a text in any OX Application (e.g. Safari, Chrome) and search for this book on goodreads to add it to your library.
+# goodreads service search book
+Select a text in any Apple OX Application (e.g. Safari, Chrome) and search for this book on goodreads to add it to your library.
 
 ##Installation
 * [download "Search with Goodreads"](https://github.com/aheissenberger/goodreads-service-search-book/blob/master/Search%20with%20Goodreads.zip?raw=true)
